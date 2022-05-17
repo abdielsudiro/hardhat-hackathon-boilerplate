@@ -17,8 +17,8 @@ The first things you need to do are cloning this repository and installing its
 dependencies:
 
 ```sh
-git clone https://github.com/sudiro/hardhat-hackathon-boilerplate.git
-cd hardhat-hackathon-boilerplate
+git clone https://github.com/sudiro/simple-token.git
+cd simple-token
 npm install
 ```
 
